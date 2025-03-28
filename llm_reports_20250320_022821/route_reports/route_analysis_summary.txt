@@ -1,0 +1,209 @@
+=== ROUTE STAGE ANALYSIS SUMMARY ===
+Generated on: 2025-03-20 02:28:29
+
+=== DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.650000
+Median Value: 0.039000
+Non-zero Percentage: 98.65%
+Percentiles:
+  5th: 0.005000
+  25th: 0.017000
+  50th (median): 0.039000
+  75th: 0.070000
+  95th: 0.187000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.png
+
+=== PIN DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.pin_density.data.gz
+Minimum Value: 0.000000
+Maximum Value: 36.771000
+Median Value: 0.829000
+Non-zero Percentage: 98.28%
+Percentiles:
+  1st: 0.000000
+  5th: 0.107000
+  25th: 0.495000
+  50th (median): 0.829000
+  75th: 1.498000
+  95th: 5.230000
+  99th: 12.988000
+Output visualization: GRGX0CH0.ipo10001.route.pin_density.png
+
+=== LOGIC CONE CORE DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.logic_cone.core.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.434000
+Median Value: 0.000000
+Non-zero Percentage: 18.89%
+Percentiles:
+  1st: 0.000000
+  5th: 0.000000
+  25th: 0.000000
+  50th (median): 0.000000
+  75th: 0.000000
+  95th: 0.003000
+  99th: 0.045000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.logic_cone.core.png
+
+=== LOGIC CONE FEEDTHROUGH DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.logic_cone.feedthrough.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.401000
+Median Value: 0.000000
+Non-zero Percentage: 30.68%
+Percentiles:
+  1st: 0.000000
+  5th: 0.000000
+  25th: 0.000000
+  50th (median): 0.000000
+  75th: 0.001000
+  95th: 0.003000
+  99th: 0.008000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.logic_cone.feedthrough.png
+
+=== LOGIC CONE INPUT DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.logic_cone.input.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.163000
+Median Value: 0.000000
+Non-zero Percentage: 3.06%
+Percentiles:
+  1st: 0.000000
+  5th: 0.000000
+  25th: 0.000000
+  50th (median): 0.000000
+  75th: 0.000000
+  95th: 0.000000
+  99th: 0.003000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.logic_cone.input.png
+
+=== LOGIC CONE OUTPUT DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.logic_cone.output.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.415000
+Median Value: 0.000000
+Non-zero Percentage: 6.06%
+Percentiles:
+  1st: 0.000000
+  5th: 0.000000
+  25th: 0.000000
+  50th (median): 0.000000
+  75th: 0.000000
+  95th: 0.001000
+  99th: 0.004000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.logic_cone.output.png
+
+=== LOGIC CONE RETIME DENSITY ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.cell_density.logic_cone.retime.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.624000
+Median Value: 0.018000
+Non-zero Percentage: 96.08%
+Percentiles:
+  1st: 0.000000
+  5th: 0.001000
+  25th: 0.010000
+  50th (median): 0.018000
+  75th: 0.037000
+  95th: 0.155000
+  99th: 0.314000
+Output visualization: GRGX0CH0.ipo10001.route.cell_density.logic_cone.retime.png
+
+=== HORIZONTAL CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.horizontal.layer_group.TM_layers.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.773000
+Median Value: 0.391000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.264000
+  25th: 0.324000
+  50th (median): 0.391000
+  75th: 0.493000
+  95th: 0.621000
+  99th: 0.679000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.horizontal.layer_group.TM_layers.png
+
+=== VERTICAL CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.vertical.layer_group.TM_layers.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.884000
+Median Value: 0.614000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.307000
+  25th: 0.561000
+  50th (median): 0.614000
+  75th: 0.665000
+  95th: 0.717000
+  99th: 0.769000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.vertical.layer_group.TM_layers.png
+
+=== HORIZONTAL M LAYERS CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.horizontal.layer_group.M_layers.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.588000
+Median Value: 0.113000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.103000
+  25th: 0.108000
+  50th (median): 0.113000
+  75th: 0.125000
+  95th: 0.171000
+  99th: 0.231000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.horizontal.layer_group.M_layers.png
+
+=== VERTICAL M LAYERS CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.vertical.layer_group.M_layers.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.630000
+Median Value: 0.286000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.199000
+  25th: 0.243000
+  50th (median): 0.286000
+  75th: 0.316000
+  95th: 0.358000
+  99th: 0.398000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.vertical.layer_group.M_layers.png
+
+=== HORIZONTAL AVERAGE CASE CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.horizontal.average_case.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.677000
+Median Value: 0.330000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.229000
+  25th: 0.277000
+  50th (median): 0.330000
+  75th: 0.412000
+  95th: 0.520000
+  99th: 0.565000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.horizontal.average_case.png
+
+=== VERTICAL AVERAGE CASE CONGESTION ANALYSIS ===
+Source file: GRGX0CH0.ipo10001.route.congestion.vertical.average_case.data.gz
+Minimum Value: 0.000000
+Maximum Value: 0.737000
+Median Value: 0.505000
+Non-zero Percentage: 98.65%
+Percentiles:
+  1st: 0.000000
+  5th: 0.275000
+  25th: 0.467000
+  50th (median): 0.505000
+  75th: 0.543000
+  95th: 0.583000
+  99th: 0.633000
+Output visualization: GRGX0CH0.ipo10001.route.congestion.vertical.average_case.png
+

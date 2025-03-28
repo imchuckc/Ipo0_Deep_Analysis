@@ -1,0 +1,14 @@
+# Database folders
+.DB/
+.irregulaDB/
+
+# Copy files
+*copy*.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cursor directory
+.cursor/ 
